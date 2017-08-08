@@ -4,7 +4,7 @@ A webpage that displays a list of movies and it's trailer.
 
 # Installation
 
-To download the package click [here](https://drive.google.com/file/d/0Bx-eO8wDMop7YnhPdzQ0akM2TFU/view?usp=sharing) and extract it.
+To download the project files click [here](https://drive.google.com/file/d/0Bx-eO8wDMop7YnhPdzQ0akM2TFU/view?usp=sharing) and extract it.
 
 You need Python 2.7 or higher installed to run this. To download Python click [here](https://www.python.org/downloads/)
 
