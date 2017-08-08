@@ -18,7 +18,7 @@ To add movies of your own, edit the `main.py` file and create Movie class object
 Example code:
 ```
 movie_name = movie.Movie("movie_title",
-                        "movie_description",
-                        "poster_image_link",
-                        "youtube_trailer_link")
+                         "movie_description",
+                         "poster_image_link",
+                         "youtube_trailer_link")
 ```
