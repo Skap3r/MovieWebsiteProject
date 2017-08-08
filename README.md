@@ -4,9 +4,7 @@ A webpage that displays a list of movies and it's trailer.
 
 # Installation
 
-Mac: `python main.py`
-
-Windows (using Git Bash): `winpty python main.py`
+Mac: `python main.py` Windows (using Git Bash): `winpty python main.py`
 
 # Usage
 
