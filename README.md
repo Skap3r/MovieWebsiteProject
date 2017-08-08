@@ -8,8 +8,8 @@ To download the project files click [here](https://drive.google.com/file/d/0Bx-e
 
 You need Python 2.7 or higher installed to add movies of your own and compile the program. To download Python click [here](https://www.python.org/downloads/)
 
-Open the command line on Mac and type: `python main.py`  
-On Windows (using Git Bash) type: `winpty python main.py`
+- Open the command line on Mac and type: `python main.py`  
+- On Windows (using Git Bash) type: `winpty python main.py`
 
 # Usage
 
