@@ -52,7 +52,7 @@ the_matrix = movie.Movie("The Matrix",
                          "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
                          "https://www.youtube.com/watch?v=m8e-FF8MsqU")
 
-# Creating a list of Movie Class objects.
+# Adding movie objects to a list.
 movies = [interstellar, the_martian, the_ring, prometheus, predestination, dead_silence,
            the_exorcism_of_emily_rose, the_matrix, chappie, inception]
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies) # This method takes in a list of Movie objects and creates a webpage with all the movies in it.
